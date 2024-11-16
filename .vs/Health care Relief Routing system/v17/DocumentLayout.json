@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75447D15-F96F-4EEB-AD69-8BF54AC0A9EA}|Health care Relief Routing system\\Health care Relief Routing system.vcxproj|C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75447D15-F96F-4EEB-AD69-8BF54AC0A9EA}|Health care Relief Routing system\\Health care Relief Routing system.vcxproj|solutionrelative:Health care Relief Routing system\\System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75447D15-F96F-4EEB-AD69-8BF54AC0A9EA}|Health care Relief Routing system\\Health care Relief Routing system.vcxproj|C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{75447D15-F96F-4EEB-AD69-8BF54AC0A9EA}|Health care Relief Routing system\\Health care Relief Routing system.vcxproj|solutionrelative:Health care Relief Routing system\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75447D15-F96F-4EEB-AD69-8BF54AC0A9EA}|Health care Relief Routing system\\Health care Relief Routing system.vcxproj|C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{75447D15-F96F-4EEB-AD69-8BF54AC0A9EA}|Health care Relief Routing system\\Health care Relief Routing system.vcxproj|solutionrelative:Health care Relief Routing system\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\output.txt",
+              "RelativeDocumentMoniker": "Health care Relief Routing system\\output.txt",
+              "ToolTip": "C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\output.txt",
+              "RelativeToolTip": "Health care Relief Routing system\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T06:36:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\input.txt",
+              "RelativeDocumentMoniker": "Health care Relief Routing system\\input.txt",
+              "ToolTip": "C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\input.txt",
+              "RelativeToolTip": "Health care Relief Routing system\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T06:35:36.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "System.cpp",
+              "DocumentMoniker": "C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\System.cpp",
+              "RelativeDocumentMoniker": "Health care Relief Routing system\\System.cpp",
+              "ToolTip": "C:\\Users\\cuty computer\\Desktop\\New folder\\Health care Relief Routing system\\Health care Relief Routing system\\System.cpp",
+              "RelativeToolTip": "Health care Relief Routing system\\System.cpp",
+              "ViewState": "AQIAAAUCAAAAAAAAAAAkwCACAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T06:32:55.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
